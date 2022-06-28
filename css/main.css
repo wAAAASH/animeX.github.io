@@ -1,0 +1,42 @@
+* {
+    margin:0;
+    padding: 0;
+}
+body {
+    background-color: #1c1c1c;
+    font-family: monospace;
+}
+/*navbar*/
+.rotated:hover{
+    transform: rotate(90deg);
+    transition: 1s;
+    color: gold;
+}
+.rotated:not(:hover) {
+    transform: rotate(0deg);
+    transition: 1s;
+}
+.submenu {
+    background-color: #1c1c1c;
+}
+#heart:hover,#stream:hover{
+    color:#ff0000;
+    transition: 1s;
+}
+#notifications:hover {
+    color: rgb(255, 183, 0);
+    transition: 1s;
+}
+#image:hover {
+    color: rgb(82, 158, 32);
+    transition: 1s;
+}
+#eye:hover {
+    color: rgb(184, 175, 175);
+    transition: 1s;
+}
+#cog:hover {
+    color: #686767;
+    transition: 1s;
+    transform: rotate(360deg);
+}
