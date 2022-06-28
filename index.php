@@ -28,9 +28,9 @@
             <br>
             <ion-icon name="notifications" id="notifications"></ion-icon>
             <span>Notificações</span>
-            <br>
             <ion-icon name="image" id="image"></ion-icon>
             <span>Plano de Fundo</span>
+            <br>
             <br>
             <ion-icon name="eye" id="eye"></ion-icon>
             <span>Historico</span>
